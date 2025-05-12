@@ -10,7 +10,7 @@
   <br/>
 
   <!-- Studying -->
-  <h3>📚 Frameworks </h3>
+  <h3>📚 Studying </h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <br/><br/>
