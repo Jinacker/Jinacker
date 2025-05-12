@@ -10,7 +10,7 @@
   <br/>
 
   <!-- Studying -->
-  <h3>📚 Currently Studying</h3>
+  <h3>📚 Frameworks </h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <br/><br/>
@@ -33,6 +33,6 @@
   <!-- GitHub Stats -->
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Jinacker&show_icons=true&theme=default" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacker&layout=compact&theme=default" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacker&layout=compact&theme=default" width="400"/>
 
 </div>
