@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20Jinacker%20🚀&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=100&section=header&text=Welcome%20Jinacker%20:kr:&fontSize=40"/>
   
   <br/>
   <!-- About Me -->
