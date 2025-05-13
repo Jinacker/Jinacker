@@ -6,7 +6,8 @@
   <br/>
   <!-- About Me -->
   <h3>👋 About Me</h3>
-  
+  :fire: A student studying to become a Full Stack Developer.
+  🎯 Interested in AI and Location-Based services.
   <br/>
   <!-- Studying -->
   <h3>📚 Studying </h3>
