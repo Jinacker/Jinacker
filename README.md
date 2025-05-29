@@ -29,8 +29,11 @@
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Jinacker&show_icons=true&theme=default" width="335"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacker&layout=compact&theme=default" width="300"/>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{Jinacker}"/>
-</a>
-  
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jinacker&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/Jinacker"
+    width="300"
+    height="140"
+  />
+  </a>
 </div>
