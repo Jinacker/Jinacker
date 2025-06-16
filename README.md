@@ -6,7 +6,7 @@
   <br/>
   <!-- About Me -->
   <h3>👋 About Me</h3>
-  :fire: I Wanna Be a <strong>Full Stack Developer</strong>!
+  :fire: I Wanna Be a <strong>Full Stack Developer</strong> !
   
   🎯 Interested in **AI** and **Location-Based** Services.
 
