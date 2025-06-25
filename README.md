@@ -31,7 +31,7 @@
 <img
   src="https://render.gitanimals.org/farms/Jinacker"
   width="300"
-  height="140"
+  height="180"
 />
 </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacker&layout=compact&theme=default" width="300"/>
