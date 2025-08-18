@@ -10,7 +10,7 @@
   
   🎯 Interested in **AI** and **Location-Based** Services.
 
-  🔗 [View My Portfolio](https://port-folio-two-navy.vercel.app/)
+  🔗 [My Portfolio](https://port-folio-two-navy.vercel.app/)
 
   <!-- Studying -->
   <h3>📚 Studying </h3>
