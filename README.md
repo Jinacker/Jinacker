@@ -30,6 +30,9 @@
 
 | 기간 | 프로젝트명 | 설명 | 역할 / 기술스택 | 성과 |
 | --- | --- | --- | --- | --- |
+| 2020-2 | [🌡️ 열코찍](https://blog.naver.com/rlawls1448/222176589054) | 제 5회 INU 메이커 경진대회 출품작 | 아두이노 및 기획 / 팀장 | 🥈 우수상 수상 |
+| 2024 여름 | [🏞 농어촌 디지털트윈](https://blog.naver.com/rlawls1448/223648587549) | 2024 농어촌 디지털트윈 서비스 아이디어 경진대회 | 개인출품 / 기획 | 🥉 장려상 수상 |
+| 2024 여름 | [🚑️ Recue Route](https://blog.naver.com/rlawls1448/223631106628) | 제6회 공간정보 활용·아이디어 경진대회 | 팀장 / 기획 | 🏆 최우수상 수상 |
 | 2025-1 | [📰 ISSUE ONE](https://github.com/KSEB-4-E) | I-Mini Project 출품작 | React / FE 및 팀장 | 🏆 대상 수상 |
 | 2025 여름 | [👨‍👩‍👧 FamiLog](https://github.com/LikeLion-13th-E-TEAM-Inha-Hackathon) | 멋쟁이사자처럼 인하대 해커톤 | Django / BE | - |
 | 2025 여름 | [🚚 Smart WMS](https://github.com/KSEB-4th-Project-3rd-Team) | 신세계 I&C 산학협력 프로젝트 출품작 | Spring Boot / BE + FE 보조 | 🥈 우수상 수상 |
@@ -45,11 +48,3 @@
 
 ✨ 저를 더 알고 싶으시다면 블로그와 포트폴리오를 둘러봐주세요! <br/>
 개발 외에도 지금까지 몰입해온 활동들을 정리하며, 제가 어떤 태도로 배우고 성장해왔는지.. 다양한 도전과 노력의 흔적을 담았습니다.
-
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jinacker&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/Jinacker" width="300" height="180"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacker&layout=compact&theme=default" width="300"/>
-</div>
-
