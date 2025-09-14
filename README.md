@@ -28,12 +28,12 @@
 
 | 기간 | 프로젝트명 | 설명 | 역할 / 기술스택 | 성과 |
 | --- | --- | --- | --- | --- |
-| 2025-1 | [📰 ISSUE ONE](https://github.com/KSEB-4-E) | I-Mini Project 출품작 | React / FE 및 팀장 | 🏆 대상 수상 |
+| 2025 -1 | [📰 ISSUE ONE](https://github.com/KSEB-4-E) | I-Mini Project 출품작 | React / FE 및 팀장 | 🏆 대상 수상 |
 | 2025 여름 | [👨‍👩‍👧 FamiLog](https://github.com/LikeLion-13th-E-TEAM-Inha-Hackathon) | 멋쟁이사자처럼 인하대 해커톤 | Django / BE | - |
 | 2025 여름 | [🚚 Smart WMS](https://github.com/KSEB-4th-Project-3rd-Team) | 신세계 I&C 산학협력 프로젝트 출품작 | Spring Boot / BE + FE 보조 | 🥈 우수상 수상 |
 | 2025 여름 | [👬 건너건너](https://github.com/Team-Hawaiian-Pizza) | 멋쟁이사자처럼 중앙해커톤 | Django / BE - 1대1 채팅 파트 | - |
-| 2025 여름 ~ 현재 개발중 | [🕊 쉼표](https://github.com/ShymPyo) | K-Paas 공모전 출품작 | React Native / FE + Design | - |
-
+| 2025 여름 ~ | [🕊 쉼표](https://github.com/ShymPyo) | K-Paas 공모전 출품작 | React Native / FE + Design | - |
+| 2025 /9 ~ | [🤖 Neo& X MFS ](https://github.com/ShymPyo) | 2025 메이커페어 부스 소개 페이지 | React / FE + Design | - |
 
 
 
