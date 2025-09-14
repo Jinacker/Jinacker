@@ -28,10 +28,12 @@
 
 | 기간 | 프로젝트명 | 설명 | 역할 / 기술스택 | 성과 |
 |------|------------|------|----------------|------|
-| 2025-1 | 📰 <sub>이슈 요약 플랫폼: ISSUE ONE</sub> | I-Mini Project 출품작 | React 기반 FE 및 팀장 | 🏆 대상 수상 |
-| 2025 여름 | 👨‍👩‍👧 <sub>가족판 썸원: FamiLog</sub> | 멋쟁이사자처럼 인하대 해커톤 | Django 기반 BE | - |
-| 2025 여름 | 🚚 <sub>RL 기반 AMR 경로 최적화 · 클라우드형 WMS</sub> | 신세계 I&C 산학협력 프로젝트 출품작 | Spring Boot 기반 BE + FE 보조 | 🥈 우수상 수상 |
-| 2025 여름 | 👫 <sub>지역 기반 신뢰 네트워크 플랫폼: 건너건너</sub> | 멋쟁이사자처럼 중앙해커톤 | Django 기반 BE - 1대1 채팅 파트 | - |
+| <small>2025-1</small> | 📰 <small>이슈 요약 플랫폼: ISSUE ONE</small> | <small>I-Mini Project 출품작</small> | <small>React 기반 FE 및 팀장</small> | <small>🏆 대상 수상</small> |
+| <small>2025 여름</small> | 👨‍👩‍👧 <small>가족판 썸원: FamiLog</small> | <small>멋쟁이사자처럼 인하대 해커톤</small> | <small>Django 기반 BE</small> | <small>-</small> |
+| <small>2025 여름</small> | 🚚 <small>RL 기반 AMR 경로 최적화 · 클라우드형 WMS</small> | <small>신세계 I&C 산학협력 프로젝트 출품작</small> | <small>Spring Boot 기반 BE + FE 보조</small> | <small>🥈 우수상 수상</small> |
+| <small>2025 여름</small> | 👫 <small>지역 기반 신뢰 네트워크 플랫폼: 건너건너</small> | <small>멋쟁이사자처럼 중앙해커톤</small> | <small>Django 기반 BE - 1대1 채팅 파트</small> | <small>-</small> |
+| <small>2025 여름 ~ </small> | 🕊 <small>무더위 쉼터 지도: 쉼표</small> | <small>K-Paas 공모전 출품작</small> | <small>React Native 기반 FE</small> | <small>-</small> |
+
 
 
 
