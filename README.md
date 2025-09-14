@@ -1,40 +1,8 @@
-<div align="center">
+## 👋 안녕하세요!
+떠오른 **발상을** 실제 동작하는 **서비스**로 빚어내는 이 과정이 너무나도 재밌어.. 개발자의 길을 택한 **김진**입니다!
+
+- 2025년 초부터 본격적인 개발 공부의 여정을 시작했습니다. 매일 새로운 것을 배우는 재미에 푹 빠져 지내고 있습니다.
   
-  <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=speech&color=gradient&height=100&section=header&text=Welcome%20to%20Jinacker's%20GitHub!%20🙇‍♂️&fontSize=40"/>
-  
-  <br/>
-  <!-- About Me -->
-  <h3>👋 About Me</h3>
-  :fire: I Wanna Be a <strong>Full Stack Developer</strong>!
-  
-  🎯 Interested in **AI** and **Location-Based** Services.
+- **백엔드 개발**을 집중적으로 공부하고 있으며, 취미로 **프론트엔드**와 **웹 디자이너**의 역할도 맡아가며 역량을 넓히고 있습니다.
 
-  🔗 [My Portfolio](https://port-folio-two-navy.vercel.app/)
-
-  <!-- Studying -->
-  <h3>📚 Studying </h3>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
-
-  <!-- Tools -->
-  <h3>⚒️ Tools</h3>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ARCGIS-2C7AC3?style=flat-square&logo=ARCGIS&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <!-- GitHub Stats -->
-  <h3>📊 GitHub Stats</h3>
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Jinacker&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Jinacker"
-  width="300"
-  height="180"
-/>
-</a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinacker&layout=compact&theme=default" width="300"/>
-
-</div>
+- 궁극적으로는.. 특정 기술에 얽매이지 않고, 아이디어의 시작부터 끝까지 홀로 책임지고 구현해내는 **풀스택 역량**을 손에 넣고 싶습니다. <br/>이 막연하지만 소중한 목표가 저를 나아가게 하는 가장 큰 **원동력**입니다.
