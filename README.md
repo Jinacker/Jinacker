@@ -24,4 +24,14 @@
 ### 🛠️ 활용 툴
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"/> <img src="https://img.shields.io/badge/ARCGIS-2C7AC3?style=flat-square&logo=ARCGIS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
+### 📂 Projects
+
+| 기간 | 프로젝트명 | 설명 | 역할 / 기술스택 | 성과 |
+|------|------------|------|----------------|------|
+| 2025-1 | 📰 <sub>이슈 요약 플랫폼: ISSUE ONE</sub> | I-Mini Project 출품작 | React 기반 FE 및 팀장 | 🏆 대상 수상 |
+| 2025 여름 | 👨‍👩‍👧 <sub>가족판 썸원: FamiLog</sub> | 멋쟁이사자처럼 인하대 해커톤 | Django 기반 BE | - |
+| 2025 여름 | 🚚 <sub>RL 기반 AMR 경로 최적화 · 클라우드형 WMS</sub> | 신세계 I&C 산학협력 프로젝트 출품작 | Spring Boot 기반 BE + FE 보조 | 🥈 우수상 수상 |
+| 2025 여름 | 👫 <sub>지역 기반 신뢰 네트워크 플랫폼: 건너건너</sub> | 멋쟁이사자처럼 중앙해커톤 | Django 기반 BE - 1대1 채팅 파트 | - |
+
+
 
