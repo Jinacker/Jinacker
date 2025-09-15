@@ -27,7 +27,9 @@
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"/> <img src="https://img.shields.io/badge/ARCGIS-2C7AC3?style=flat-square&logo=ARCGIS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
 ### 📂 프로젝트
-
+<details>
+  <summary>펼쳐보기</summary>
+  
 | 기간 | 프로젝트명 | 설명 | 역할 및 기술스택 | 성과 |
 | --- | --- | --- | --- | --- |
 | 2020-2 | [🌡️ 열코찍](https://blog.naver.com/rlawls1448/222176589054) | 제 5회 INU 메이커 경진대회 출품작 | 아두이노 및 기획 / 팀장 | 🥈 우수상 수상 |
@@ -40,6 +42,7 @@
 | 2025 여름 ~ | [🕊 쉼표](https://github.com/ShymPyo) | K-Paas 공모전 출품작 | React Native / FE + Design | - |
 | 2025.09 ~ | [🤖 Neo& X MFS ](https://github.com/Jinacker/neon_maker) | 2025 메이커페어 부스 소개 페이지 | React / FE + Design | - |
 
+</details>
 
 ### 📝 아카이브
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-two-navy.vercel.app/)
