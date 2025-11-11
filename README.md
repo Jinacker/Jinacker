@@ -42,6 +42,7 @@
 | 2025 여름 | [👬 건너건너](https://github.com/Team-Hawaiian-Pizza) | 멋쟁이사자처럼 중앙해커톤 | Django / BE - 1대1 채팅 파트 | - |
 | 2025 여름 ~ | [🕊 쉼표](https://github.com/ShymPyo) | K-Paas 공모전 출품작 | React Native / FE + Design | - |
 | 2025.09 ~ | [🤖 Neo& X MFS ](https://github.com/Jinacker/neon_maker) | 2025 메이커페어 서울 부스 소개 페이지 | React / FE + Design | 행사 현장 안내용 |
+| 2025.11 ~ | [🧇 돈가스 지도 ](https://github.com/Jinacker/neon_maker) | 첫 1인 개발 런칭 프로젝트 | 기획/디자인/개발 | 스토어 심사 대기중 |
 
 </details>
 
