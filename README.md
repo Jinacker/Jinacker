@@ -47,7 +47,7 @@
 </details>
 
 ### 📝 아카이브
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-two-navy.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jin-portfolio-eta.vercel.app/)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/rlawls1448)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlawls1448@naver.com)
 
