@@ -33,16 +33,16 @@
   
 | 기간 | 프로젝트명 | 설명 | 역할 및 기술스택 | 성과 |
 | --- | --- | --- | --- | --- |
-| 2020-2 | [🌡️ 열코찍](https://blog.naver.com/rlawls1448/222176589054) | 제 5회 INU 메이커 경진대회 출품작 | 아두이노 및 기획 / 팀장 | 🥈 우수상 수상 |
-| 2024 여름 | [🏞 농촌 커뮤](https://blog.naver.com/rlawls1448/223648587549) | 2024 농어촌 디지털트윈 아이디어 경진대회 | 개인출품 / 기획 | 🥉 장려상 수상 |
-| 2024 여름 | [🚑️ Recue Route](https://blog.naver.com/rlawls1448/223631106628) | 제6회 공간정보 활용·아이디어 경진대회 | 팀장 / 기획 | 🏆 최우수상 수상 |
-| 2025-1 | [📰 ISSUE ONE](https://github.com/KSEB-4-E) | I-Mini Project 출품작 | React / FE + 팀장 및 기획 | 🏆 대상 수상 |
+| 2020-2 | [🌡️ 열코찍](https://blog.naver.com/rlawls1448/222176589054) | 제 5회 INU 메이커 경진대회 출품작 | 아두이노 및 기획 / 팀장 | 🥈우수상 수상 |
+| 2024 여름 | [🏞 농촌 커뮤](https://blog.naver.com/rlawls1448/223648587549) | 2024 농어촌 디지털트윈 아이디어 경진대회 | 개인출품 / 기획 | 🥉장려상 수상 |
+| 2024 여름 | [🚑️ Recue Route](https://blog.naver.com/rlawls1448/223631106628) | 제6회 공간정보 활용·아이디어 경진대회 | 팀장 / 기획 | 🏆최우수상 수상 |
+| 2025-1 | [📰 ISSUE ONE](https://github.com/KSEB-4-E) | I-Mini Project 출품작 | React / FE + 팀장 및 기획 | 🏆대상 수상 |
 | 2025 여름 | [👨‍👩‍👧 FamiLog](https://github.com/LikeLion-13th-E-TEAM-Inha-Hackathon) | 멋쟁이사자처럼 인하대 해커톤 | Django / BE | - |
-| 2025 여름 | [🚚 Smart WMS](https://github.com/KSEB-4th-Project-3rd-Team) | 신세계 I&C 산학협력 프로젝트 출품작 | Spring Boot / BE (+FE 보조) | 🥈 우수상 수상 |
+| 2025 여름 | [🚚 Smart WMS](https://github.com/KSEB-4th-Project-3rd-Team) | 신세계 I&C 산학협력 프로젝트 출품작 | Spring Boot / BE (+FE 보조) | 🥈우수상 수상 |
 | 2025 여름 | [👬 건너건너](https://github.com/Team-Hawaiian-Pizza) | 멋쟁이사자처럼 중앙해커톤 | Django / BE - 1대1 채팅 파트 | - |
 | 2025 여름 ~ | [🕊 쉼표](https://github.com/ShymPyo) | K-Paas 공모전 출품작 | React Native / FE + Design | - |
 | 2025.09 ~ | [🤖 Neo& X MFS ](https://github.com/Jinacker/neon_maker) | 2025 메이커페어 서울 부스 소개 페이지 | React / FE + Design | 행사 현장 안내용 |
-| 2025.11 ~ | [🧇 돈가스 지도 ](https://github.com/Katsu-Map) | 첫 1인 개발 런칭 프로젝트 | 기획 / 디자인 / 풀스택 개발 | 📱 앱스토어 출시 |
+| 2025.11 ~ | [🧇 돈가스 지도 ](https://github.com/Katsu-Map) | 첫 1인 개발 런칭 프로젝트 | 기획 / 디자인 / 풀스택 개발 | 📱앱스토어 출시 |
 
 </details>
 
