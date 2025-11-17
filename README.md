@@ -40,7 +40,7 @@
 | 2025 여름 | [👨‍👩‍👧 FamiLog](https://github.com/LikeLion-13th-E-TEAM-Inha-Hackathon) | 멋쟁이사자처럼 인하대 해커톤 | Django / BE | - |
 | 2025 여름 | [🚚 Smart WMS](https://github.com/KSEB-4th-Project-3rd-Team) | 신세계 I&C 산학협력 프로젝트 출품작 | Spring Boot / BE (+FE 보조) | 🥈우수상 수상 |
 | 2025 여름 | [👬 건너건너](https://github.com/Team-Hawaiian-Pizza) | 멋쟁이사자처럼 중앙해커톤 | Django / BE - 1대1 채팅 파트 | - |
-| 2025.08 ~ | [🕊 쉼표](https://github.com/ShymPyo) | K-Paas 공모전 출품작 | React Native / FE + Design | - |
+| 2025.08 ~ | [🕊 쉼표](https://github.com/ShymPyo) | 무더위 쉼터 지도 - 앱 | React Native / FE + Design | 공모전 심사중 |
 | 2025.09 ~ | [🤖 Neo& X MFS ](https://github.com/Jinacker/neon_maker) | 2025 메이커페어 서울 부스 소개 페이지 | React / FE + Design | 행사 현장 안내용 |
 | 2025.11 ~ | [🧇 돈가스 지도 ](https://github.com/Katsu-Map) | 첫 1인 개발 런칭 프로젝트 | 기획 / 디자인 / 풀스택 개발 | 📱앱스토어 출시 |
 
