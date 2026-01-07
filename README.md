@@ -18,7 +18,7 @@
 ### ⚙️ 다루고 있는 기술
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,react,mongodb,mysql,postgres,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,react,nestjs,mysql,postgres,aws,gcp" />
   </a>
 </p>
 
