@@ -50,4 +50,6 @@
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/rlawls1448)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlawls1448@naver.com)
 
-![OSS Contributions](oss-badge.svg)
+<a href="https://github.com/mermaid-js/mermaid/pull/7711">
+  <img src="./oss-badge.svg?v=2" width="500" alt="OSS Contributions" />
+</a>
