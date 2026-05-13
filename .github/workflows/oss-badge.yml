@@ -16,3 +16,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           badge-output-path: 'oss-badge.svg'
+          badge-style: 'detailed'       # summary, compact, or detailed
+          badge-theme: 'light'           # dark, light, nord, dracula, gruvbox-light, gruvbox-dark, etc...
+          badge-variant: 'text-based'   # default or text-based
+          min-stars: '3'              # Filter repos by minimum stars
