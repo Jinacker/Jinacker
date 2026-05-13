@@ -51,5 +51,5 @@
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlawls1448@naver.com)
 
 <a href="https://github.com/mermaid-js/mermaid/pull/7711">
-  <img src="./oss-badge.png?v=2" width="500" alt="OSS Contributions" />
+  <img src="./generated-oss.svg"/>
 </a>
