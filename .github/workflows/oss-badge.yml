@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: generate-oss-badge
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
@@ -18,3 +23,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           badge-output-path: 'oss-badge.svg'
+          badge-style: 'detailed'
+          badge-theme: 'light'
+          badge-variant: 'text-based'
+          min-stars: '3'
