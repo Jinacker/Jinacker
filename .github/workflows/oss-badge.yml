@@ -2,7 +2,7 @@ name: Generate OSS Badge
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Weekly
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 permissions:
@@ -22,9 +22,10 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Sync with latest main
+      - name: Sync with remote main
         run: |
-          git pull --rebase origin main
+          git fetch origin main
+          git reset --hard origin/main
 
       - uses: mabd-dev/gh-oss-stats-action@v0.2.1
         with:
