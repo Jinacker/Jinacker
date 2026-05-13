@@ -15,7 +15,7 @@ jobs:
       - uses: mabd-dev/gh-oss-stats-action@v0.2.1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          badge-output-path: 'oss-badge.svg'
+          badge-path: 'images/oss-badge.svg'
           badge-style: 'detailed'       # summary, compact, or detailed
           badge-theme: 'light'           # dark, light, nord, dracula, gruvbox-light, gruvbox-dark, etc...
           badge-variant: 'text-based'   # default or text-based
