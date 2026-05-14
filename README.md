@@ -11,7 +11,12 @@
 - **KSEB 부트캠프 4기** - 우수교육생 `2025.01 ~ 2025.11` 
 - **멋쟁이 사자처럼 13기** BE 파트 `2025.03 ~ 2025.12` 
 - **UMC 9th** Node.JS Server 파트 - Best  Challenger `2025.09 ~ 2026.02` 
-- **SureSoftTech** 시험자동화연구소 소속 VSPICE팀 인턴 - 풀스택 개발 `2026.03 ~ ` 
+- **SureSoftTech** 시험자동화연구소 소속 VSPICE팀 인턴 - 풀스택 개발 `2026.03 ~ `
+
+<a href="https://github.com/mermaid-js/mermaid/pull/7711">
+  <img src="./generated-oss.svg"/>
+</a>
+
 
 ### ⚙️ 다루고 있는 기술
 <p>
@@ -50,6 +55,3 @@
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/rlawls1448)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlawls1448@naver.com)
 
-<a href="https://github.com/mermaid-js/mermaid/pull/7711">
-  <img src="./generated-oss.svg"/>
-</a>
