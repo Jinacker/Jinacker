@@ -1,57 +1,24 @@
-## 👋 안녕하세요!
-떠오른 **발상을** 실제 동작하는 **서비스**로 빚어내는 이 과정이 너무나도 재미있어.. 개발자의 길을 선택한 **김진**입니다.
-  
-- **백엔드 개발**을 집중적으로 공부하고 있으며, 취미로 **프론트엔드**와 **웹 디자이너**의 역할도 맡아가며 역량을 넓히고 있습니다.
+## 👋 안녕하세요! 개발자 「김진」 입니다!
 
-- **궁극적으로는..** 특정 기술에 얽매이지 않고, 혼자서도 뭐든 뚝딱 만들어낼 수 있는 **풀스택 역량**을 손에 넣고 싶습니다 !
+**기술은 결국 사람에게 닿아야 비로소 가치**가 생긴다고 생각합니다. 
+
+하루에 단 한 명이라도 제가 만든 것을 실제로 사용하고, 그 사람에게 조금이나마 도움이 될 수 있는 것을 만들고 싶었습니다.<br>
+그래서 단순히 기능을 구현하는 데서 끝나지 않고, 직접 만들어 세상에 내놓고 실제로 사용되는 제품으로 이어지도록 노력하고 있습니다.
+
+앞으로도 누군가의 일상에 자연스럽게 스며들고, 실제로 도움이 되는 제품을 만드는 개발자가 되기 위해 정진하겠습니다!
 
 ### 🧑‍💻 개발 연혁
-- **2024 데이터 크리에이터 캠프** 스타터 과정 `2024.09 ~ 2024.11` 
-- **KT 대학생 IT 서포터즈 2기** 기획팀 `2024.11 ~ 2025.03` 
-- **KSEB 부트캠프 4기** - 우수교육생 `2025.01 ~ 2025.11` 
-- **멋쟁이 사자처럼 13기** BE 파트 `2025.03 ~ 2025.12` 
-- **UMC 9th** Node.JS Server 파트 - Best  Challenger `2025.09 ~ 2026.02` 
 - **SureSoftTech** 시험자동화연구소 소속 VSPICE팀 인턴 - 풀스택 개발 `2026.03 ~ `
-
-<a href="https://github.com/mermaid-js/mermaid/pull/7711">
-  <img src="./generated-oss.svg"/>
-</a>
-
-
-### ⚙️ 다루고 있는 기술
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,react,vue,nestjs,mysql,postgres,aws,gcp" />
-  </a>
-</p>
-
-
-### 🛠️ 활용 툴
-<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"/> <img src="https://img.shields.io/badge/ARCGIS-2C7AC3?style=flat-square&logo=ARCGIS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-181717?style=flat-square&logo=grafana&logoColor=orange"/>
-
-
-### 📂 프로젝트
-<details>
-  <summary>펼쳐보기</summary>
+- **TradLab** 마켓바이트 창업팀 - 백엔드 개발자 `2025.11 ~ 2026.06`
+- **UMC 9th** Node.JS Server 파트 - Best  Challenger `2025.09 ~ 2026.02` 
+- **멋쟁이 사자처럼 13기** BE 파트 `2025.03 ~ 2025.12`
   
-| 기간 | 프로젝트명 | 설명 | 역할 및 기술스택 | 성과 |
-| --- | --- | --- | --- | --- |
-| 2020-2 | [🌡️ 열코찍](https://blog.naver.com/rlawls1448/222176589054) | 제 5회 INU 메이커 경진대회 출품작 | 아두이노 및 기획 / 팀장 | 🥈우수상 수상 |
-| 2024 여름 | [🏞 농촌 커뮤](https://blog.naver.com/rlawls1448/223648587549) | 2024 농어촌 디지털트윈 아이디어 경진대회 | 개인출품 / 기획 | 🥉장려상 수상 |
-| 2024 여름 | [🚑️ Recue Route](https://blog.naver.com/rlawls1448/223631106628) | 제6회 공간정보 활용·아이디어 경진대회 | 팀장 / 기획 | 🏆최우수상 수상 |
-| 2025-1 | [📰 ISSUE ONE](https://github.com/KSEB-4-E) | I-Mini Project 출품작 | React / FE + 팀장 및 기획 | 🏆대상 수상 |
-| 2025 여름 | [👨‍👩‍👧 FamiLog](https://github.com/LikeLion-13th-E-TEAM-Inha-Hackathon) | 멋쟁이사자처럼 인하대 해커톤 | Django / BE | - |
-| 2025 여름 | [🚚 Smart WMS](https://github.com/KSEB-4th-Project-3rd-Team) | 신세계 I&C 산학협력 프로젝트 출품작 | Spring Boot / BE (+FE 보조) | 🥈우수상 수상 |
-| 2025 여름 | [👬 건너건너](https://github.com/Team-Hawaiian-Pizza) | 멋쟁이사자처럼 중앙해커톤 | Django / BE - 1대1 채팅 파트 | - |
-| 2025.08 ~ 10| [🕊 쉼표](https://github.com/ShymPyo) | 무더위 쉼터 지도 - 앱 | React Native / FE + Design | K-paas 공모전 출품작 |
-| 2025.09 | [🤖 Neo& X MFS ](https://github.com/Jinacker/neon_maker) | 2025 메이커페어 서울 부스 소개 페이지 | React / FE + Design | 행사 현장 안내용 |
-| 2025.11 ~ | [🧇 돈가스 지도 ](https://github.com/Katsu-Map) | 첫 1인 개발 런칭 프로젝트 | 기획 / 디자인 / 풀스택 개발 | 📱앱 정식 출시 완료 |
-| 2026.01 ~ 02 | [🗓️ 알바로그 ](https://github.com/UMC-AlbaLog/Node.JS) | 알바 스케줄·수입 통합 관리 서비스 | Node.js(Express) / BE | UMC DEMO DAY |
 
-</details>
+### 👀 제가 더 궁금하다면, 마음껏 구경해주세요!
 
-### 📝 아카이브
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://jin-portfolio-eta.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/rlawls1448)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlawls1448@naver.com)
-
+<a href="https://jin-portfolio-eta.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20포트폴리오%20구경하기-111111?style=for-the-badge&logoColor=white" height="50"/>
+</a>
+<a href="https://blog.naver.com/rlawls1448">
+  <img src="https://img.shields.io/badge/%20블로그%20구경하기-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="50"/>
+</a>
